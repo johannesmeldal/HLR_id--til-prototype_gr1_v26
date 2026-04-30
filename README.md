@@ -36,6 +36,12 @@ En Arduino-basert HLR-treningssimulator som gir visuell og auditiv tilbakemeldin
 | HC-SR04 TRIG | D7 |
 | HC-SR04 ECHO | D8 |
 
+<img width="925" height="725" alt="image" src="https://github.com/user-attachments/assets/1891f70f-47cf-4e47-96a1-c7b961125557" />
+
+
+[Incredible Uusam Circuit Design.pdf](https://github.com/user-attachments/files/27244568/Incredible.Uusam.Circuit.Design.pdf)
+
+
 ---
 
 ## Tilstander
